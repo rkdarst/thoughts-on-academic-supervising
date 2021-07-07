@@ -1,16 +1,45 @@
-.. Academic management hints documentation master file, created by
-   sphinx-quickstart on Tue Aug 18 22:24:29 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+Academic manager's guide
+========================
 
-Welcome to Academic management hints's documentation!
-=====================================================
+Once you start leading people, you have a different job.  You are no
+longer responsible for doing things yourself, but to 
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: About
+
+   why-this-guide
+
+* Why management?
 
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Background
+
+   blank
+
+* Roles of a researcher
+* Why supervising?
+* Conflicts of interest
+* Weekly meetings
+* Group meetings
+* Working together
+* Education: n-1, n, n+1
+* Future careers, survivor bias
+* Career ladders
+
+
+.. toctree::
+   :maxdepth: 2
+   :caption: What can you do?
+
+   blank
+
+* weekly meetings
+* Mentors
+* Group work
+* Group code
 
 Indices and tables
 ==================
