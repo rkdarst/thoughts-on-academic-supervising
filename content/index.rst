@@ -6,9 +6,12 @@ longer responsible for doing things yourself, but to
 
 .. toctree::
    :maxdepth: 2
-   :caption: About
 
-   why-this-guide
+   about-this-guide
+   credits
+
+   contributing
+   README
 
 * Why management?
 
