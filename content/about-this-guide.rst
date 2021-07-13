@@ -7,6 +7,17 @@ different people.  Below, you can
 This book is focused on technical or computational sciences (so far?).
 
 
+Why management?
+---------------
+
+Once one becomes a leader, one of their responsibility is to get the
+best out of the people they lead.  We often hear horror stories about
+management, including the joke "the best manager I've had is one who
+did nothing".  Still, working life is difficult, especially in
+academia, and *good* management/leadership *is* actually important
+both for students and group leaders.
+
+
 Prologue: Richard Darst
 -----------------------
 
@@ -72,6 +83,14 @@ proofread.
 
 Credits
 -------
+
+The book `The Manager's Path: A Guide for Tech Leaders Navigating
+Growth and Change`__ by Camille Fournier served as inspiration for this
+guide.  In fact, you could go so far as to say that most of the basic
+ideas of this guide come from here, with added commentary and
+interpretation for the academic setting.
+
+__ https://www.oreilly.com/library/view/the-managers-path/9781491973882/
 
 The :doc:`credits page <credits>` will list contributors who wish to
 be mentioned.
