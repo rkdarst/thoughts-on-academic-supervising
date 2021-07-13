@@ -6,10 +6,21 @@ longer responsible for doing things yourself, but to
 
 .. toctree::
    :maxdepth: 2
+   :caption: Front matter
 
    about-this-guide
-   credits
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Content
+
+   roles-of-a-junior-researcher
+
+.. toctree::
+   :maxdepth: 2
+   :caption: End notes
+
+   credits
    contributing
    README
 
