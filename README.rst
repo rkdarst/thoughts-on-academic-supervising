@@ -1,5 +1,5 @@
-Academic management
--------------------
+Academic management: README
+===========================
 
 These are some notes, possibly even a guide or book someday, about how
 to best lead and manage junior researchers.  For more info, see the

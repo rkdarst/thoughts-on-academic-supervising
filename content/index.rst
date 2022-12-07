@@ -37,13 +37,16 @@ about this role some.
    :caption: What can you do?
 
    placeholder
+   research-engineer
 
+* Designated mentors / research engineers
 * Weekly meetings
 * Group meetings
 * Working together
 * Mentors
 * Group work
 * Group code
+* Examples of problematic situations and solutions
 
 
 .. toctree::
