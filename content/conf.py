@@ -17,8 +17,8 @@
 
 # -- Project information -----------------------------------------------------
 
-project = "Academic manager's guide"
-copyright = '2021, The contributors'
+project = "Thoughts on academic supervising"
+copyright = '2021-2022, The contributors'
 author = 'The contributors'
 
 
@@ -38,6 +38,7 @@ templates_path = ['_templates']
 # This pattern also affects html_static_path and html_extra_path.
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 exclude_patterns += ['venv']
+exclude_patterns += ['#*']
 
 
 # -- Options for HTML output -------------------------------------------------

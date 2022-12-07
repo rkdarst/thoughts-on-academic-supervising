@@ -68,20 +68,23 @@ working methods.  This sounds a lot more like most researchers that I
 know of.  Especially the concept of bringing your own tools
 (techniques you know) and methods (how you approach a problem), which
 you are likely to have brought from previous jobs and will keep using
-in future ones is quite like a freelancer.
+in future ones is quite like a freelancer.  This (and the
+"entrepreneur" case below) are especially relevant when the researcher
+provides their own funding.
 
 Advantages: We accept the amount of freedom and independence
 researchers have, and by accepting that, we can better tune our
 management to their (and our) needs.
 
-Disadvantages: There are very few protections, and if this model was
-actually used, it would be like they are running their own small
-business which is not a very stable occupation.  It is harder to run a
-research group creating long-term results when everyone can do their
-own thing, or if they do focus on a project you want, they might use
-some incompatible tool which no one else later can use.  It is very
-easy to let someone keep doing something unproductive for a very long
-time.
+Disadvantages: If this model was the actual legal relationship, it
+would be like running one's own small business which is not a very
+stable occupation.  It is harder to run a research group creating
+long-term results when everyone can do their own thing, or if they do
+focus on a project you want, they might use some incompatible tool
+which no one else later can use.  It is very easy to let someone keep
+doing something unproductive for a very long time.  Especially when
+someone provides their own funding, it can be difficult to provide
+hard advice.
 
 
 
@@ -102,3 +105,18 @@ people who can best advance in this system aren't necessarily the best
 scientifically, but the best salespeople.  The tricks of the trade are
 often learned passively or inherited through ones advisor.
 
+
+
+Early-career worker
+-------------------
+
+Let's not forget that, in addition to all of the above, young
+researchers are essentially brand new people in working life, even if
+their title is sudent.  In any normal company, there is a transition
+period between learning theoretical knowledge during studies and being
+a productive employee.  This is a quite hands-on, practical, and
+mentorship-based kind of activity.  Academic researchers often miss
+this type of period and end up having to learn things by themselves.
+
+If this role isn't properly developed, a researcher may end up with
+years later without being ready to take any non-academic job.

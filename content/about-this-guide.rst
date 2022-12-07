@@ -60,6 +60,10 @@ the first place).
 How it is made
 --------------
 
+.. seealso::
+
+   :doc:`contributing`
+
 The intention is that this is an open-source project, with many
 different opinions.  Of course, since many things contained in it are
 opinions, it is a rather interesting open-source project.  For now,
