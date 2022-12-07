@@ -1,8 +1,11 @@
-Academic manager's guide
-========================
+Thoughts on academic supervising
+================================
 
 Once you start leading people, you have a different job.  You are no
-longer responsible for doing things yourself, but to 
+longer responsible for doing things yourself, but to get the best out
+of the people who work for you.  Given the amount of stress and
+problems that young researchers tend to have, it's worth thinking
+about this role some.
 
 .. toctree::
    :maxdepth: 2
@@ -12,9 +15,39 @@ longer responsible for doing things yourself, but to
 
 .. toctree::
    :maxdepth: 2
-   :caption: Content
+   :caption: Why management?
 
+   why-management
    roles-of-a-junior-researcher
+   roles-of-a-group-leader
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Common problems
+
+   antipatterns
+   conflicts-of-interest
+   survivor-bias
+   future-careers
+   level-n-plus-one
+   academic-career-ladder
+
+.. toctree::
+   :maxdepth: 2
+   :caption: What can you do?
+
+   placeholder
+   research-engineer
+
+* Designated mentors / research engineers
+* Weekly meetings
+* Group meetings
+* Working together
+* Mentors
+* Group work
+* Group code
+* Examples of problematic situations and solutions
+
 
 .. toctree::
    :maxdepth: 2
@@ -24,36 +57,6 @@ longer responsible for doing things yourself, but to
    contributing
    README
 
-* Why management?
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Background
-
-   blank
-
-* Roles of a researcher
-* Why supervising?
-* Conflicts of interest
-* Weekly meetings
-* Group meetings
-* Working together
-* Education: n-1, n, n+1
-* Future careers, survivor bias
-* Career ladders
-
-
-.. toctree::
-   :maxdepth: 2
-   :caption: What can you do?
-
-   blank
-
-* weekly meetings
-* Mentors
-* Group work
-* Group code
 
 Indices and tables
 ==================
