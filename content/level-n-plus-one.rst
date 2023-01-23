@@ -17,4 +17,8 @@ Application to academics
 * Don't expect a person at level *n* to be able to do the level *n*
   things all alone: they still need *very* active support if you
   aren't using the "sink or swim" strategy.
+* Don't assume that just because someone has their PhD, they can
+  mentor other PhDs.  And so on.  Do these people even have enough
+  full example of the PhD process?  Are they prepared to handle unique
+  situations?
 * See the levels in the :doc:`academic-career-ladder`

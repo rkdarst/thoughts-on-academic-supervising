@@ -26,13 +26,11 @@ about this role some.
    :caption: Common problems
 
    antipatterns
-   conflicts-of-interest
    survivor-bias
+   conflicts-of-interest
    future-careers
    level-n-plus-one
    academic-career-ladder
-
-* Creating superstars
 
 .. toctree::
    :maxdepth: 2
@@ -41,12 +39,12 @@ about this role some.
    research-engineer
    weekly-meetings
    group-meetings
+   group-tools
+   other-career-examples
+   example-situations
 
-* Working together
 * Mentors
 * Group work
-* Group code
-* Examples of problematic situations and solutions
 
 
 .. toctree::
