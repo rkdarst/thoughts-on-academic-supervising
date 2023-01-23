@@ -32,16 +32,17 @@ about this role some.
    level-n-plus-one
    academic-career-ladder
 
+* Creating superstars
+
 .. toctree::
    :maxdepth: 2
    :caption: What can you do?
 
    placeholder
    research-engineer
+   weekly-meetings
+   group-meetings
 
-* Designated mentors / research engineers
-* Weekly meetings
-* Group meetings
 * Working together
 * Mentors
 * Group work
