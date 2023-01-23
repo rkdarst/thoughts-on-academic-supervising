@@ -4,7 +4,7 @@ Academic career ladder
 Why you need to care
 --------------------
 
-* 
+*
 
 The typical career ladder
 -------------------------

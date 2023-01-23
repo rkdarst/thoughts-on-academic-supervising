@@ -2,7 +2,7 @@ About this guide
 ================
 
 Hopefully, this guide becomes the collection of opinions form many
-different people.  Below, you can
+different people.  Below, you can read about the general plan.
 
 This book is focused on technical or computational sciences (so far?).
 
@@ -21,10 +21,12 @@ both for students and group leaders.
 Prologue: Richard Darst
 -----------------------
 
+(more prologues will be added for other contributors)
+
 When I started as a manager, not of research students but of research
 staff, I put some thought into understanding what my responsibilities
 would be.  What I found wasn't very pretty: most researchers/students
-I know didn't have very good managers, I had good supervisors but
+I knew didn't have very good managers, I had good supervisors but
 perhaps not good managers, and the whole idea of academic management
 was vague and unclear.  This leads to catastrophically low
 productivity and research output.
@@ -75,6 +77,7 @@ It is best to assume that any good ideas come from other contributors
 and any bad ideas come from the initial author rkdarst.
 
 The book is licensed under CC-BY-SA 4.0.
+
 
 
 Current status
