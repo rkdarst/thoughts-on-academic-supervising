@@ -23,6 +23,10 @@ jobs:
         run: |
           make clean
           make dirhtml
+      - name: Build epub
+        run: |
+          make epub
+          mv _build/{epub,dirhtml}/thoughts-on-academic-supervising.epub
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/master'

@@ -20,6 +20,7 @@
 project = "Thoughts on academic supervising"
 copyright = '2021-2022, The contributors'
 author = 'The contributors'
+epub_basename = "thoughts-on-academic-supervising"
 
 
 # -- General configuration ---------------------------------------------------
