@@ -19,10 +19,15 @@ jobs:
         run: |
           pip install -r requirements.txt
       - uses: ammaraskar/sphinx-problem-matcher@master
-      - name: Build
+      - name: Build dirhtml
         run: |
           make clean
           make dirhtml
+      - name: Build singlehtml
+        run: |
+          make clean
+          make singlehtml
+          mv _build/singlehtml _build/dirhtml/single/
       - name: Build epub
         run: |
           make epub
