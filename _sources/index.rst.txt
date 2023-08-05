@@ -38,7 +38,6 @@ about this role some.
    :maxdepth: 2
    :caption: What can you do?
 
-   placeholder
    research-engineer
    weekly-meetings
    group-meetings
