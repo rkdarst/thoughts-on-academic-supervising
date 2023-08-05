@@ -25,7 +25,6 @@ jobs:
           make dirhtml
       - name: Build singlehtml
         run: |
-          make clean
           make singlehtml
           mv _build/singlehtml _build/dirhtml/single/
       - name: Build epub
