@@ -7,6 +7,10 @@ of the people who work for you.  Given the amount of stress and
 problems that young researchers tend to have, it's worth thinking
 about this role some.
 
+Academic supervising is a bit unique because it's a delicate balance
+of independence and teaching, of workers who are constantly coming and
+going.
+
 .. toctree::
    :maxdepth: 2
    :caption: Front matter
@@ -20,6 +24,7 @@ about this role some.
    why-management
    roles-of-a-junior-researcher
    roles-of-a-group-leader
+   benefits-of-good-supervising
 
 .. toctree::
    :maxdepth: 2
@@ -31,20 +36,22 @@ about this role some.
    future-careers
    level-n-plus-one
    academic-career-ladder
+   labor-freedom
 
 .. toctree::
    :maxdepth: 2
    :caption: What can you do?
 
-   research-engineer
+   support-structures
+   working-together
    weekly-meetings
    group-meetings
    group-tools
+   research-engineer
    other-career-examples
    example-situations
 
 * Mentors
-* Group work
 
 
 .. toctree::
